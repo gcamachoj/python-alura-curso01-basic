@@ -1,4 +1,4 @@
-# Prácticas de Python – Desafíos Progresivos
+# Prácticas de Python – Desafíos Progresivos - ALURA LATAM - PROGRAMA DATASCIENCE 01.
 
 ## 📌 Introducción
 
@@ -6,9 +6,11 @@ Este repositorio contiene una colección de desafíos prácticos diseñados para
 
 Los desafíos fueron resueltos de manera individual, basándome en mi propio análisis lógico, con el fin de fortalecer la comprensión y el dominio del lenguaje Python.
 
+Además, encontrarás un archivo llamado **`Python-Data-Science.ipynb`**, el cual contiene las lecciones prácticas desarrolladas durante el **Curso 01 del Programa de Ciencia de Datos de Alura**, del cual fui beneficiado gracias a una **beca**. Este notebook incluye ejercicios paso a paso aplicados en la plataforma **Google Colab**.
+
 ## 🧠 Estructura del repositorio
 
-Cada archivo en el repositorio representa un desafío, y está estructurado según la temática que se desarrolla en el curso:
+Cada archivo representa un desafío elaborado como notebook (`.ipynb`) y está organizado según la temática abordada:
 
 1. **Desafío 1 – `print` y manejo de strings:**  
    Introducción a la salida de datos y cadenas de texto en Python.
@@ -27,17 +29,19 @@ Cada archivo en el repositorio representa un desafío, y está estructurado seg�
 
 ## ✅ Objetivo
 
-El objetivo principal de este repositorio es documentar el progreso de aprendizaje a través de prácticas graduales que permitan adquirir confianza en la resolución de problemas con Python.
+El objetivo principal de este repositorio es documentar mi progreso de aprendizaje a través de prácticas graduales que permitan adquirir confianza en la resolución de problemas con Python.
 
 ## 🚀 Tecnologías usadas
 
 - Python 3.x
-- Editor: VS Code / Jupyter / Entorno local
+- Google Colab
+- Notebooks `.ipynb`
 
 ## 📂 Organización
 
-Cada desafío está contenido en un archivo `.py` nombrado según el número del desafío y el tema correspondiente. Puedes ejecutarlos desde un entorno local o mediante plataformas educativas compatibles con Python.
+Todos los desafíos y lecciones están organizados en archivos `.ipynb`, ideales para ser ejecutados directamente en Google Colab o cualquier entorno compatible con Jupyter Notebook.
 
 ---
 
 ¡Gracias por visitar este repositorio! 🙂
+
